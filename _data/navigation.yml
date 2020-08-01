@@ -1,5 +1,13 @@
 links:
 - title: Writing
-  url: /
+  url: / 
+- title: Programme
+  url: /programme
+- title: People
+  url: /people
+- title: Labs
+  url: /labs
+- title: Online Advice
+  url: /advice
 - title: About
   url: /about
