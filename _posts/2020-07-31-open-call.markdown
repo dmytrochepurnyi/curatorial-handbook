@@ -1,15 +1,12 @@
-
 ---
 layout: post
 title:  "Landscape As a Monument A-I-R Programme"
-date:   2020-07-30 11:38:42 +0300
-categories: jekyll update
 ---
 
-**Landscape As a Monument A-I-R Programme
-**
+## Landscape As a Monument A-I-R Programme
+
 3-23 August, 2020 IZOLYATSIA with support of Ukrainian Cultural Foundation will hold international online residency for artists, curators, researchers and activists Landscape As a Monument with particular focus on connections between contemporary art and ecology, politics and economy. The residence will be focused on revision of cultural landscapes, environmental history, human/nature dichotomy, industrial heritage and legacy.
-**
+
 The main themes** are Anthropocene, cultural landscapes, (non)human, environment, ecological practices, environmental history, geology, evolution, object-oriented approach, displacement and history of migration, sustainable ecosystems, Donets Ridge, Donetsk coal basin, Ukraine, Soviet heritage, industry, modernization, decommunization, commemoration, memory, (non)institutional exhibition spaces, war and catastrophes.  
 
 **Contributors:** Anna Khvyl (UA), Pavlo Kovach (UA), Lesya Kulchynska (UA), Mariusz Czepczynski (PL), Andriy Vozyanov (BY), Jessica Zychowicz (US), Lia Dostlieva (UA/PL), Oleksandra Pohrebnyak (UA), Dmytro Chepurnyi (UA), Vitya Glushchenko (UA), Daryna Tsymbalyuk (UA/UK), Iryna Zamurayeva (UA/UK). 
@@ -20,7 +17,7 @@ Claire Colebrook in ‘The Intensity of the Archive’ points at the enlargement
 
 How will our perception of the environment change, if we bridge this gap? It is time to go out on the hills of Sviatohirsk and look around with a new gaze, and imagine beyond-human perspective. What will we see? Is this landscape a monument to industrial modernization and human activity? After all, can we coexist with it given the challenges of the climate crisis?
 
-**Structure**
+## Structure
 
 For the participants the residency will become a period of common work in four directions, reflected in the four labs: curatorial, visual, audial and gardening. The most of the communications and events within the framework of the program will take place online, however realization of the final projects, field research of the participants and individual scouting may take place in specific spaces. Interaction between the participants will be facilitated by mentors, who will provide support and moderation of the four labs, and help in realization of the final projects. 
 
