@@ -4,7 +4,7 @@ title: Landscape As a Monument A-I-R Programme
 permalink: /about/
 ---
 
-![Landscape As a Monument A-I-R Programme](img_logo.jpg)
+![Landscape As a Monument A-I-R Programme](/img_logo.jpg)
 
 # Landscape As a Monument A-I-R Programme
 
