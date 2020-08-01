@@ -7,7 +7,7 @@ permalink: /people/
 ![open call](/open call4_4.jpg)
 
 
-# PEOPLE
+# People
 
 [English below]
 
