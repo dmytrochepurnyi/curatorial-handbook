@@ -4,6 +4,10 @@ title: Landscape As a Monument A-I-R Programme
 permalink: /about/
 ---
 
+![Landscape As a Monument A-I-R Programme](img_logo.png)
+
+# Landscape As a Monument A-I-R Programme
+
 3-23 August, 2020 IZOLYATSIA with support of Ukrainian Cultural Foundation will hold international online residency for artists, curators, researchers and activists Landscape As a Monument with particular focus on connections between contemporary art and ecology, politics and economy. The residence will be focused on revision of cultural landscapes, environmental history, human/nature dichotomy, industrial heritage and legacy.
 
 The main themes** are Anthropocene, cultural landscapes, (non)human, environment, ecological practices, environmental history, geology, evolution, object-oriented approach, displacement and history of migration, sustainable ecosystems, Donets Ridge, Donetsk coal basin, Ukraine, Soviet heritage, industry, modernization, decommunization, commemoration, memory, (non)institutional exhibition spaces, war and catastrophes.  
