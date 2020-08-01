@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-![open call](/open call4_4.jpg)
+![open call](/img_open_call4_4.jpg)
 
 
 # People
